@@ -1,0 +1,181 @@
+.footer {
+    background: #000000;
+    padding: 38px 0 0;
+    color: white;
+}
+
+.customer__services {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.customer__services-list {
+    max-width: 255px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.customer__services-title {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.customer__services-link-item {
+    display: flex;
+    flex-direction: column;
+    font-family: "RR", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+
+}
+
+.customer__services-item {
+    max-width: 255px;
+    width: 100%;
+    height: 36px;
+}
+
+.customer__services-item a {
+    color: #FFFFFF;
+}
+
+.customer___assistance-list {
+    max-width: 288px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.customer___assistance-title {
+    display: flex;
+    width: 288px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.customer___assistance-item-link {
+    display: flex;
+    flex-direction: column;
+    font-family: "RR", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.customer___assistance-item {
+    font-family: "RR", sans-serif;
+    max-width: 255px;
+    height: 36px;
+    width: 100%;
+}
+
+.customer___assistance-item a {
+    font-family: "RR", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.follow__grayson-list {
+    max-width: 255px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.follow__grayson-titlle {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.follow__grayson-item-link {
+    display: flex;
+    flex-direction: column;
+}
+
+.follow__grayson-item {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 162px;
+    height: 30px;
+}
+
+.follow__grayson-item a {
+    font-family: "RR", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.join {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+
+.join__title {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.join__form-for-p {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.join__form {
+    display: flex;
+}
+
+.join__form-inpute {
+    border: none;
+    padding: 13px;
+    background: #FFFFFF;
+    font-family: "RR", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.join__form-btn {
+    padding: 13px 10px;
+    border: none;
+    background: #41A28E;
+    cursor: pointer;
+    font-family: "RR", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.join__text {
+    font-family: "RR", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    width: 255px;
+    height: 48px;
+}
+.join_cards{
+    display: flex;
+    gap: 25px;
+}
